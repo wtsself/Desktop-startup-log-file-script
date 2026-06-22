@@ -1,0 +1,5 @@
+询问研华安装包安装具体方法：https://blog.csdn.net/Pearflower_/article/details/133810448
+了解宇泰UT下哪个驱动:D:\Edge下载文件\宇泰\UT-758驱动\sysbas\x64
+分析了解给的SHBMotor项目代码内容
+上传github我搞的桌面日志文件打开脚本代码文件
+了解公司OA系统登录，企业邮箱
